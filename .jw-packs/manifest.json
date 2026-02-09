@@ -1,0 +1,17 @@
+{
+  "version": "v1.0.1",
+  "created": "2026-02-09T17:28:36.806Z",
+  "packages": {
+    "@jwsl/react": "jwsl-react-19.2.0.tgz",
+    "@jwsl/next": "jwsl-next-16.1.1.tgz",
+    "@jwsl/core": "jwsl-core-0.1.6.tgz",
+    "@jwsl/ui": "jwsl-ui-0.1.2.tgz",
+    "@jwsl/lib": "jwsl-lib-0.1.2.tgz",
+    "@jwsl/provider": "jwsl-provider-0.1.2.tgz",
+    "@jwsl/icons": "jwsl-icons-0.1.0.tgz",
+    "@jwsl/chat": "jwsl-chat-0.1.0.tgz",
+    "@jwsl/eslint-config": "jwsl-eslint-config-0.1.0.tgz",
+    "@jwsl/gateway": "jwsl-gateway-1.0.0.tgz",
+    "@jwsl/framework": "jwsl-framework-1.1.0.tgz"
+  }
+}
