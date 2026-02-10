@@ -1,6 +1,6 @@
 {
-  "version": "v1.0.2",
-  "created": "2026-02-09T17:42:52.348Z",
+  "version": "v2.0.0",
+  "created": "2026-02-10T02:07:24.959Z",
   "packages": {
     "@jwsl/react": "jwsl-react-19.2.0.tgz",
     "@jwsl/next": "jwsl-next-16.1.1.tgz",
@@ -19,6 +19,7 @@
     "@jwsl/eslint-config": "jwsl-eslint-config-0.1.0.tgz",
     "@jwsl/gateway": "jwsl-gateway-1.0.0.tgz",
     "@jwsl/framework": "jwsl-framework-1.1.0.tgz",
-    "@jwsl/typescript-config": "jwsl-typescript-config-0.1.0.tgz"
+    "@jwsl/typescript-config": "jwsl-typescript-config-0.1.0.tgz",
+    "@jwsl/templates": "jwsl-templates-0.1.0.tgz"
   }
 }
