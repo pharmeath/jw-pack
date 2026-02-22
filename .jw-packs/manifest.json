@@ -1,6 +1,6 @@
 {
-  "version": "v2.0.0",
-  "created": "2026-02-10T02:07:24.959Z",
+  "version": "v1.0.0",
+  "created": "2026-02-22T02:59:31.933Z",
   "packages": {
     "@jwsl/react": "jwsl-react-19.2.0.tgz",
     "@jwsl/next": "jwsl-next-16.1.1.tgz",
